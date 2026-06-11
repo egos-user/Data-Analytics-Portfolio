@@ -33,4 +33,3 @@
 1. Открыть `Store_top15.sql` в SQLite Studio и выполнить
 2. Открыть `analysis.ipynb` в Jupyter / Colab и запустить ячейки
 3. Открыть `dashboard.pbix` в Power BI
-.
