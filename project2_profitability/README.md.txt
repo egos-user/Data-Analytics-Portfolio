@@ -16,13 +16,13 @@
 
 | Файл | Описание |
 |------|----------|
-| `Store_top15.sql` | SQL-запрос с RANK(), CASE, агрегациями |
-| `top_15_subcategories.csv` | результат запроса (данные) |
-| `analysis.ipynb` | Jupyter Notebook с кодом на Python |
-| `python_chart1.png` | столбчатая диаграмма (выручка по подкатегориям) |
-| `python_chart2.png` | круговая диаграмма (распределение по рентабельности) |
-| `dashboard.pbix` | дашборд Power BI |
-| `dashboard_screenshot.png` | скриншот дашборда |
+| Store_top15.sql | SQL-запрос с RANK(), CASE, агрегациями |
+| top_15_subcategories.csv | результат запроса (данные) |
+| analysis.ipynb | Jupyter Notebook с кодом на Python |
+| python_chart1.png | столбчатая диаграмма (выручка по подкатегориям) |
+| python_chart2.png | круговая диаграмма (распределение по рентабельности) |
+| dashboard.pbix | дашборд Power BI |
+| dashboard_screenshot.png | скриншот дашборда |
 
 ## Результаты
 - Убыточная подкатегория: **Bookcases**
