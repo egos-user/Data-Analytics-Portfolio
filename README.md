@@ -1,29 +1,31 @@
-# Анализ топ-5 товаров интернет-магазина
+# Top 5 Products Analysis
 
-## Цель
-Выявить 5 товаров с самыми высокими продажами.
+## Goal
+Identify the top 5 products with the highest sales revenue.
 
-## Данные
-- Источник: датасет Superstore (CSV).
-- Таблица: sales.
+## Data
+- Source: Superstore dataset (CSV)
+- Table: sales
 
-## Инструменты
-- **SQL** (SQLite Studio) — извлечение данных.
-- **Python** (Pandas, Matplotlib) — визуализация.
-- **Power BI** — интерактивный дашборд.
+## Tools
+- **SQL** (SQLite Studio) — data extraction
+- **Python** (Pandas, Matplotlib) — visualization
+- **Power BI** — interactive dashboard
 
-## Файлы
-- `query.sql` — SQL-запрос.
-- `top_5_sales.csv` — результат запроса.
-- `analysis.ipynb` — код на Python.
-- `python_chart.png` — скриншот графика.
-- `dashboard.pbix` — дашборд Power BI.
+## Files
+| File | Description |
+|------|-------------|
+| `top5_products.sql` | SQL query |
+| `top5_sales.csv` | Query result (CSV) |
+| `top5_analysis.ipynb` | Python code (Jupyter) |
+| `top5_chart.png` | Python bar chart |
+| `top5_dashboard.pbix` | Power BI dashboard |
 
-## Результаты
-- Товар Hewlett Packard 610 Color Digital Copier / Printer — лидер продаж.
-- Дашборд позволяет фильтровать данные по категориям.
+## Results
+- Top product: **Hewlett Packard 610 Color Digital Copier / Printer**
+- Dashboard allows filtering by category
 
-## Как воспроизвести
-1. Открыть `query.sql` в SQLite Studio, выполнить.
-2. Открыть `analysis.ipynb` в Jupyter, запустить ячейки.
-3. Открыть `dashboard.pbix` в Power BI.
+## How to reproduce
+1. Open `top5_products.sql` in SQLite Studio and run
+2. Open `top5_analysis.ipynb` in Jupyter / Colab and run cells
+3. Open `top5_dashboard.pbix` in Power BI
