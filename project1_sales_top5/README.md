@@ -1,33 +1,33 @@
-# Анализ топ-5 товаров по продажам
+# Top-5 Products by Sales Analysis
 
-## Цель
-Найти 5 товаров с самыми высокими продажами.
+## Goal
+Identify the 5 products with the highest sales revenue.
 
-## Данные
-- Источник: датасет Superstore (CSV)
-- Таблица: sales
+## Data
+- Source: Superstore dataset (CSV)
+- Table: sales
 
-## Инструменты
-- **SQL** (SQLite Studio) — извлечение данных
-- **Python** (Pandas, Matplotlib) — визуализация
-- **Power BI** — интерактивный дашборд
+## Tools
+- **SQL** (SQLite Studio) — data extraction
+- **Python** (Pandas, Matplotlib) — visualization
+- **Power BI** — interactive dashboard
 
-## Файлы
-| Файл | Описание |
-|------|----------|
-| `top5_products.sql` | SQL-запрос |
-| `store_top5.csv` | результат запроса |
-| `import pandas as pd.txt` | пример импорта библиотеки (Python) |
-| `top5_chart.png` | столбчатая диаграмма (Python) |
-| `top_5_products_dashboard.pbix` | дашборд Power BI |
+## Files
 
+| File | Description |
+|------|-------------|
+| `top5_products.sql` | SQL query |
+| `store_top5.csv` | query result |
+| `import pandas as pd.txt` | Python import example |
+| `top5_chart.png` | bar chart (Python) |
+| `top_5_products_dashboard.pbix` | Power BI dashboard |
 
-## Результаты
-- Товар-лидер: **Hewlett Packard 610 Color Digital Copier / Printer**
-- Дашборд позволяет фильтровать данные по категориям
+## Results
+- Top product: **Hewlett Packard 610 Color Digital Copier / Printer**
+- Dashboard allows filtering by category
 
-## Как воспроизвести
-1. Открыть `top5_products.sql` в SQLite Studio и выполнить
-2. Открыть `import pandas as pd.txt` — пример кода для загрузки данных
-3. Открыть `top5_analysis.ipynb` в Jupyter / Colab (если есть)
-4. Открыть `top_5_products_dashboard.pbix` в Power BI
+## How to Reproduce
+1. Open `top5_products.sql` in SQLite Studio and run
+2. Open `import pandas as pd.txt` — example Python import
+3. Open `top5_analysis.ipynb` in Jupyter / Colab (if available)
+4. Open `top_5_products_dashboard.pbix` in Power BI
