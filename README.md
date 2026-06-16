@@ -1,31 +1,30 @@
-# Портфолио проектов по анализу данных
+# Data Analytics Portfolio
 
-## Обо мне
-Начинающий аналитик данных.  
-Уверенное владение **SQL**, **Python (Pandas)** и **Power BI**.  
-Закончил бакалавриат по специальности «Бизнес-информатика».
+## About Me
+I am a Junior Data Analyst with strong hands-on skills in **SQL**, **Python (Pandas)**, and **Power BI**.  
+I hold a Bachelor's degree in Business Informatics and have completed two full-cycle data projects.
 
-## Навыки
-- **SQL**: JOIN, оконные функции, подзапросы, CTE, CASE
-- **Python**: Pandas (фильтрация, группировка, объединение таблиц, обработка NaN), Matplotlib (визуализация)
-- **Power BI**: дашборды, меры DAX, срезы, связи таблиц
-- **Git**: контроль версий, работа с репозиториями
+## Skills
+- **SQL:** JOINs, window functions, subqueries, CTE, CASE
+- **Python:** Pandas (filtering, grouping, merging, NaN handling), Matplotlib (visualization)
+- **Power BI:** dashboards, DAX measures, slicers, table relationships
+- **Git:** version control, repository management
 
-## Проекты
+## Projects
 
-### 1. Анализ топ-5 товаров по продажам
-- **Задача:** выявить 5 товаров с самой высокой выручкой
-- **Инструменты:** SQL, Python, Power BI
-- **Папка:** `project1_sales_top5/`
-- **Результат:** определён товар-лидер, построен дашборд с фильтрацией по категориям
+### 1. Top-5 Products by Sales
+- **Goal:** Identify 5 products with the highest revenue
+- **Tools:** SQL, Python, Power BI
+- **Folder:** `project1_sales_top5/`
+- **Result:** Found the top-selling product, built a dashboard with category filters
 
-### 2. Анализ рентабельности категорий товаров
-- **Задача:** оценить рентабельность подкатегорий, найти убыточные позиции
-- **Инструменты:** SQL (оконные функции, CASE), Python, Power BI
-- **Папка:** `project2_profitability/`
-- **Результаты:** выявлена убыточная подкатегория (Bookcases), выделены высокомаржинальные товары
+### 2. Profitability Analysis by Product Categories
+- **Goal:** Evaluate subcategory profitability, find loss-making positions
+- **Tools:** SQL (window functions, CASE), Python, Power BI
+- **Folder:** `project2_profitability/`
+- **Results:** Identified a loss-making subcategory (Bookcases), highlighted high-margin products
 
-## Как посмотреть проекты
-1. Перейди в папку проекта
-2. Открой `README.md` внутри папки для детального описания
-3. Изучи SQL-запросы, код Python и дашборд Power BI
+## How to Explore Projects
+1. Open the project folder
+2. Open `README.md` inside the folder for detailed description
+3. Review SQL queries, Python code, and Power BI dashboard
